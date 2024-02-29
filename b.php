@@ -1,3 +1,3 @@
 <?php
 
-echo 'a.php uit feature/b';
+echo 'b.php uit feature/b';
