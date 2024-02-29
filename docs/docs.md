@@ -87,4 +87,11 @@ Main branch heeft een file 123.php
 
 
 
+Ik heb filea.php en file b.php klaar vanuit feature branches in de develop branch    
+Hoe kan ik nu zien wat ik zou mergen vanuit  
+Als featue/a en feature/b en develop allemaal up-to-date zijn qua commit en push  
+Dan kan ik middels een pull request zien wat er van develop naar main zou gaan ..  
+
+
+
 [//]: # (<img src="gitflow/assets/images/img.png"/>)
